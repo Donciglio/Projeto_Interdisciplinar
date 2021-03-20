@@ -31,9 +31,9 @@ Para o desenvolvimento desse projeto foi realizado:
 
 <p>Integrantes e responsaveis da criação desse projeto</p>
 
-__*Débora Canedo*__
-__*Giovanna Marcari*__
-__*Hamilton Donciglio*__
-__*Matheus Silva*__
-__*Paloma Andrade*__
-__*Renato Vaz*__
+* __*Débora Canedo*__
+* __*Giovanna Marcari*__
+* __*Hamilton Donciglio*__
+* __*Matheus Silva*__
+* __*Paloma Andrade*__
+* __*Renato Vaz*__
